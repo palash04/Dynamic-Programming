@@ -1,5 +1,8 @@
 /*
 https://leetcode.com/problems/super-egg-drop/
+
+Recursion in action : https://user-images.githubusercontent.com/26361028/89529937-3f82d480-d80b-11ea-8558-153bcbf0204a.jpeg
+
 */
 
 #include <bits/stdc++.h>
